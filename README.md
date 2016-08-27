@@ -22,6 +22,6 @@ The jar executable takes 2 parameters: the spreasheet filename without extension
 <p>Example</p>
 ![<oocalc image>](https://github.com/mfgc76/ookdblink/blob/master/img/ookdblink1.png)
 
-- To run use runjar.bar and set the correct path to .jar file and arguments
+- To run use runjar.bat and set the correct path to .jar file and arguments
 - To build import project into Netbeans, install the openoffice [plug-in](https://wiki.openoffice.org/wiki/OpenOffice_NetBeans_Integration#NetBeans_8.x_and_Apache_OpenOffice_4.1.x) first
 - Built with Java7, tested with kdb+ 3.2, Openoffice 4.11
