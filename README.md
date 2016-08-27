@@ -21,7 +21,7 @@ The jar executable takes 2 parameters: the spreasheet filename without extension
 - in the example below the 1st row is a header that show the column order
 
 <p>Example</p>
-![<oocalc image>](https://github.com/mfgc76/ookdblink/blob/master/img/ookdblink1.png)
+![<oocalc image>](https://github.com/mfitsilis/ookdblink/blob/master/img/ookdblink1.png)
 
 - To run use runjar.bat and set the correct path to file ookdblink.jar inside dist directory and arguments
 - To build import project into Netbeans, install the openoffice [plug-in](https://wiki.openoffice.org/wiki/OpenOffice_NetBeans_Integration#NetBeans_8.x_and_Apache_OpenOffice_4.1.x) first
