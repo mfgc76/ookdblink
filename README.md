@@ -19,8 +19,8 @@ The jar executable takes 2 parameters: the spreasheet filename without extension
 - supported time formats: time, date, second return milliseconds
   since epoch (UTC), better use formula (E2 / 86400000) + DATE(1970;1;1) to convert to oocalc format and format the cell accordingly, unsupported formats return empty cell
 
-Example
-![<oocalc image>](https://github.com/mfgc76/ookdbaddin/blob/master/img/ookdbimg1.png)
+<p>Example</p>
+![<oocalc image>](https://github.com/mfgc76/ookdbaddin/blob/master/img/ookdblink1.png)
 
 - To run install .oxt file from dist directory
 - To build import project into Netbeans, install the openoffice [plug-in](https://wiki.openoffice.org/wiki/OpenOffice_NetBeans_Integration#NetBeans_8.x_and_Apache_OpenOffice_4.1.x) first
