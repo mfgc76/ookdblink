@@ -15,7 +15,7 @@ The jar executable takes 2 parameters: the spreasheet filename without extension
   it is periodically refreshed and will switch back to 0
   unlike ookdbaddin where the formula does not allow an update
   or a longer table, the tables update without such issues 
-- set Cell over reload cell to the monitor the number of query entries eg.: =COUNTIF(A1:A10000;"<>""")-1
+- set cell over reload cell to monitor the number of query entries eg.: =COUNTIF(A1:A10000;"<>""")-1
 - supported time formats: time, date, second return milliseconds
   since epoch (UTC), better use formula (E2 / 86400000) + DATE(1970;1;1) to convert to oocalc format and format the cell accordingly, unsupported formats return empty cell
 - in the example below the 1st row is a header that show the column order
