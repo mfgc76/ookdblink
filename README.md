@@ -18,7 +18,7 @@ The jar executable takes 2 parameters: the spreasheet filename without extension
 - set cell over reload cell to monitor the number of query entries eg.: =COUNTIF(A1:A10000;"<>""")-1
 - supported time formats: time, date, second return milliseconds
   since epoch (UTC), better use formula (G2 / 86400000) + DATE(1970;1;1) to manually convert, as in the example below, to oocalc format and format the cell accordingly, unsupported formats return empty cell
-- in the example below the 1st row is a header that show the column order
+- in the example below the header in the 1st row shows the column order
 
 <p>Example</p>
 ![<oocalc image>](https://github.com/mfitsilis/ookdblink/blob/master/img/ookdblink1.png)
